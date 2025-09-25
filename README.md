@@ -29,6 +29,15 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux-toolkit" width="40" height="40"/> 
+  </a>
+  <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo/rtk-query.png" alt="rtk-query" width="40" height="40"/> 
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -56,4 +65,23 @@
       <span style="color:#ffffff; font-weight:600;">@sweatshot</span>
     </a>
   </li>
+  <li style="display:flex; align-items:center;">
+    <a href="https://github.com/ntitovgo" target="_blank" rel="noreferrer" style="display:flex; align-items:center; text-decoration:none;">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="16" height="16" style="margin-right:8px;" />
+      <span style="color:#ffffff; font-weight:600;">@ntitovgo</span>
+    </a>
+  </li>
 </ul>
+
+---
+
+<h3 align="left">Other Skills & Tools:</h3>
+<p align="left" style="max-width:600px;">
+  - React Hooks, Context API  
+  - Redux Toolkit (RTK) + RTK Query  
+  - REST API & WebSocket (Socket.IO)  
+  - Vite, Node.js, Express  
+  - Git, GitHub, version control  
+  - SQL databases: MySQL, PostgreSQL  
+  - TypeScript, JavaScript (ES6+)
+</p>
