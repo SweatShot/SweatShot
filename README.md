@@ -35,9 +35,6 @@
   <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux-toolkit" width="40" height="40"/> 
   </a>
-  <a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo/rtk-query.png" alt="rtk-query" width="40" height="40"/> 
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
