@@ -63,9 +63,9 @@
     </a>
   </li>
   <li style="display:flex; align-items:center;">
-    <a href="https://github.com/ntitovgo" target="_blank" rel="noreferrer" style="display:flex; align-items:center; text-decoration:none;">
+    <a href="https://github.com/SweatShot" target="_blank" rel="noreferrer" style="display:flex; align-items:center; text-decoration:none;">
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="16" height="16" style="margin-right:8px;" />
-      <span style="color:#ffffff; font-weight:600;">@ntitovgo</span>
+      <span style="color:#ffffff; font-weight:600;">@SweatShot</span>
     </a>
   </li>
 </ul>
